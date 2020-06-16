@@ -1,2 +1,4 @@
 # movies
-MadewithML Data Science Incubator 2020 (Movie Lens Dataset: EDA, text classification, numerical stats, recommender system)
+MadewithML Data Science Incubator 2020
+
+EDA - preprocessing, exploratory data analysis 
